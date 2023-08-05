@@ -1,6 +1,6 @@
-- Getting started
+- Починаємо
 
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [Швидкий старт](quickstart.md)
+  - [Добавити сторінки](more-pages.md)
+  - [Спеціальна навігаційна панель](custom-navbar.md)
+  - [Обкладинка](cover.md)
