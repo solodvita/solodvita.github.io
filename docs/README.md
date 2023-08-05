@@ -1,3 +1,2 @@
-# Headline
-
-> An awesome project.
+# Заголовок
+> Чудовий проект.
