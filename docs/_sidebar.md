@@ -8,20 +8,20 @@
 
 - Ruby
 
-  - [Readme-ruby](/ruby/Readme)
+  - [Readme ruby](/ruby/Readme)
 
 - Python
 
-  - [Readme-python](/python/Readme)  
+  - [Readme python](/python/Readme)  
 
 - Amber
 
-  - [Readme-amber](/amber/Readme)       
+  - [Readme amber](/amber/Readme)       
 
 - Vue
 
-  - [Readme-vue](/vue/Readme)    
+  - [Readme vue](/vue/Readme)    
 
 - Kickstarter
 
-  - [Readme-kickstarter](/kickstarter/Readme)   
+  - [Readme kickstarter](/kickstarter/Readme)   
