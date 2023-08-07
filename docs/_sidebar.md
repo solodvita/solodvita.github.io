@@ -6,6 +6,12 @@
   - [Обкладинка](cover.md)
   
 
+
+- File manager
+
+  - [far2l](/filemanager/far2l.md)
+
+
 - Ruby
 
   - [Readme ruby](/ruby/Readme)
@@ -29,3 +35,7 @@
 - Вебмайстри і агенції
 
   - [Webmasters](/webmasters/webmasters.md)
+
+- Markdown
+
+  - [Markdown](/markdown/markdown.md)
