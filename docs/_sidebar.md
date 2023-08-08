@@ -39,3 +39,7 @@
 - Markdown
 
   - [Markdown](/markdown/markdown.md)
+
+- Виртуальные машины
+
+  - [Виртуальные машины](/virtualbox/virtualbox.md)
