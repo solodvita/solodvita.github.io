@@ -7,3 +7,5 @@
 
 <a href="https://www.youtube.com/watch?v=TiBCLraUFvA">Изучение Vue JS за час в одном видео! Разработка приложения на Vue</a> <br>
 Быстро можно создать рабочее приложение и кое-что посмотреть.
+
+<a href="https://cli.vuejs.org/ru/">https://cli.vuejs.org/ru/</a>
