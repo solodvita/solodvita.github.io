@@ -36,5 +36,12 @@
 
 - Банковское дело
   - [Банковское дело](/bank/bank.md)
+
+- Юриспруденция
+    - [Юриспруденция](/jurisprudence/jurisprudence.md)
+
+- Git Github
+    - [Git Github](/git-github/git-github.md)
+
   - [Actions](actions.md)
   - [Пуста ссилка](/bank/)
