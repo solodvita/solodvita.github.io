@@ -2,6 +2,8 @@
 
 Docsify это и есть масштабирование проекта на vue js вниз.
 
+<a href="https://github.com/docsifyjs/awesome-docsify">awesome-docsify</a>
+
 ## Список справ
 
 - [ ] Написати список справ
