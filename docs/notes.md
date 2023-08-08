@@ -3,7 +3,7 @@
 Docsify это и есть масштабирование проекта на vue js вниз.
 
 <a href="https://github.com/docsifyjs/awesome-docsify">awesome-docsify</a>\
-<a href="https://github.com/docsifyjs/awesome-docsify">style-dictionary</a> by Amazon
+<a href="https://amzn.github.io/style-dictionary/#/">style-dictionary</a> by Amazon
 
 
 ## Список справ
