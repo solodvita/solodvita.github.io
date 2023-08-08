@@ -1,10 +1,6 @@
 - Починаємо
   - [Нотатки](notes.md)
-  - [Добавити сторінки](more-pages.md)
-  - [Спеціальна навігаційна панель](custom-navbar.md)
-  - [Обкладинка](cover.md)
   
-
 
 - File manager
   - [far2l](/filemanager/far2l.md)
