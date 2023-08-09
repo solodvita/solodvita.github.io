@@ -46,6 +46,11 @@
   - [Linux](/computer/linux.md)
   - [Windows](/computer/windows.md)
 
+- Фундамент
+  - [ПрАТ "Фундамент"](/foundament/foundament.md)
+  - [Несуча здатність палі](/foundament/carrying-capacity.md)
+  
+
 
   - [Actions](actions.md)
   - [Пуста ссилка](/bank/)
