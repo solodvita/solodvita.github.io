@@ -1,6 +1,8 @@
 - Починаємо
   - [Нотатки](notes.md)
   - [Ідеї створення сайтів](ideas.md)
+  - [Атомарные свопы](svopes.md)
+  - [Adam Back](adam.md)
   
 
 - File manager
@@ -39,6 +41,11 @@
 
 - Git Github
     - [Git Github](/git-github/git-github.md)
+
+- Computer
+  - [Linux](/computer/linux.md)
+  - [Windows](/computer/windows.md)
+
 
   - [Actions](actions.md)
   - [Пуста ссилка](/bank/)
