@@ -20,6 +20,12 @@ Vue доступен как модуль npm. Для модуля доступе
 https://www.youtube.com/watch?v=NFBxIgxQiGI  ТОП - 5 UI библиотек для Vue.js 
 
 
+https://www.youtube.com/watch?v=LGsDerVgzyU   Vuetify in practice [ru] / Александр Степанов
+
+
+https://www.youtube.com/watch?v=FXpIoQ_rT_c    Vue.js Course for Beginners [2021 Tutorial]
+
+
 
 
 
