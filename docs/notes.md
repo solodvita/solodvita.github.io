@@ -1,5 +1,6 @@
 # Нотатки
 
+https://www.youtube.com/watch?v=Tqn3oUoX4iY&t=374s  Let's build a Markdown component 
 
 
 <a href="https://github.com/docsifyjs/awesome-docsify">awesome-docsify</a>\
