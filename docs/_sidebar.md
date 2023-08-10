@@ -49,6 +49,9 @@
 - Фундамент
   - [ПрАТ "Фундамент"](/foundament/foundament.md)
   - [Несуча здатність палі](/foundament/carrying-capacity.md)
+
+- Парсинг
+  - [Парсинг](/parsing/parsing.md)
   
 
 
