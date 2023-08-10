@@ -17,6 +17,10 @@ Vue доступен как модуль npm. Для модуля доступе
 
 Як би хелло ворлд на вью  <a href="https://github.com/galichy79/vue-22">тут</a>
 
+https://www.youtube.com/watch?v=NFBxIgxQiGI  ТОП - 5 UI библиотек для Vue.js 
+
+
+
 
 
 
