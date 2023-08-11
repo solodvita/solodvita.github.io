@@ -26,6 +26,7 @@
       autoHeader: false,
       subMaxLevel: 3,
       maxLevel: 4,
+      executeScript: true,
       
       name: '',
       repo: 'https://github.com/solodvita/solodvita.github.io',
@@ -36,7 +37,16 @@
       }
     }
   </script>
+
+
+<script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
+</script>
+
   <!-- Docsify v4 -->
+  <script src="//unpkg.com/vue/dist/vue.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src=" https://cdn.jsdelivr.net/npm/markdown-it@13.0.1/dist/markdown-it.min.js "></script>
    
