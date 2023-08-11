@@ -52,6 +52,16 @@
 
 - Парсинг
   - [Парсинг](/parsing/parsing.md)
+
+- Jekyll
+  - [Jekyll](/jekyll/jekyll.md)
+
+
+- Bitcoin
+  - [Bitcoin](/bitcoin/bitcoin.md)
+
+- CSS Framework
+- [CSS Framework](/cssframework/cssframework.md)
   
 
 
