@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=Tqn3oUoX4iY&t=374s  Let's build a Markdown compo
 - [ ] Сайт на Django
 - [ ] Сайт на Rails
 - [ ] Сайт на Vue
-
+- [ ] Подключить CRM к сайту
 
 - [ ] Управління стилями css у сайтах на vuejs
 - [ ] Разобраться с программой Rooby-hotel
