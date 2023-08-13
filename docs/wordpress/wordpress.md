@@ -25,3 +25,4 @@ http://localhost - открывает локальный сервер
 
 http://localhost/phpmyadmin/ - адрес админки
 
+По умолчанию XAMPP устанавливается в директорию: /opt/lampp. 
