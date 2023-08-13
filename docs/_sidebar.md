@@ -8,6 +8,9 @@
 - File manager
   - [far2l](/filemanager/far2l.md)
 
+- WordPress
+  - [WordPress](/wordpress/wordpress.md)
+
 
 - Ruby
   - [Readme ruby](/ruby/Readme)
