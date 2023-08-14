@@ -28,4 +28,5 @@ https://www.youtube.com/watch?v=Tqn3oUoX4iY&t=374s  Let's build a Markdown compo
 ## Потім коли-небудь
  
 - [x] Virtualbox
+суддю верховного суду України Ірину Кондратову, з покупкою нового позашляховика Cadillac.
    
