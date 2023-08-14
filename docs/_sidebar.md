@@ -3,6 +3,7 @@
   - [Ідеї створення сайтів](ideas.md)
   - [Атомарные свопы](svopes.md)
   - [Adam Back](adam.md)
+  - [Яровед](/yaroved/yaroved.md)
   
 
 - File manager
