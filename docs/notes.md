@@ -8,7 +8,13 @@ https://www.youtube.com/watch?v=Tqn3oUoX4iY&t=374s  Let's build a Markdown compo
 
 ## Список справ
  
+- [ ] Less
 - [ ] Сайт на Jekyll
+- [ ] Landing Page
+
+
+
+
 - [ ] Сайт на WordPress
 - [ ] Сайт на Django
 - [ ] Сайт на Rails
