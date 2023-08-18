@@ -9,6 +9,10 @@
 - File manager
   - [far2l](/filemanager/far2l.md)
 
+
+- GNUPG
+  - [gnupg](/gnupg/gnupg.md)
+
 - WordPress
   - [WordPress](/wordpress/wordpress.md)
 
