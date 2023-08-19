@@ -1,5 +1,8 @@
 # Нотатки
 
+
+https://beautifuljekyll.com/
+
 https://www.fsf.org/about/ways-to-donate/  Free software foundation
 
 
