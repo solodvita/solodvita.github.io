@@ -18,3 +18,7 @@ https://klasyfik.art/uk
 
 https://platfor.ma/
 
+https://attalitech.com/
+
+
+https://github.com/daattali/beautiful-jekyll#readme  Репозиторий бютифул джекилл
