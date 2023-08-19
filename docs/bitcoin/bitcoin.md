@@ -1,1 +1,1 @@
-bitcoin
+https://iancoleman.io/bip39/
