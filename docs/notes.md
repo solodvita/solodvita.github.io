@@ -1,5 +1,7 @@
 # Нотатки
 
+https://www.fsf.org/about/ways-to-donate/  Free software foundation
+
 
 https://www.google.com/intl/ru_RU/maps/about/mymaps/
 
