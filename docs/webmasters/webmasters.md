@@ -16,3 +16,5 @@ https://rakhimova.pro/
 
 https://klasyfik.art/uk
 
+https://platfor.ma/
+

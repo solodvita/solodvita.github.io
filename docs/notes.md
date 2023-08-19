@@ -1,5 +1,7 @@
 # Нотатки
 
+Tilda Publishing - российская платформа.
+
 https://www.youtube.com/watch?v=Tqn3oUoX4iY&t=374s  Let's build a Markdown component 
 
 
