@@ -1,3 +1,6 @@
+
+https://bitcoincore.org/
+
 https://iancoleman.io/bip39/
 
 
