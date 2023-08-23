@@ -33,7 +33,7 @@ chmod ugo+x /home/yu/Downloads/electrum-4.4.5-x86_64.AppImage
 
 
 
-- [ ] Сайт на WordPress
+~~Сайт на WordPress~~
 - [ ] Сайт на Django
 - [ ] Сайт на Rails
 - [ ] Сайт на Vue
@@ -45,6 +45,8 @@ chmod ugo+x /home/yu/Downloads/electrum-4.4.5-x86_64.AppImage
 
 ## Потім коли-небудь
  
-- [x] Virtualbox
+- [x] Virtualbox 
+
+
 суддю верховного суду України Ірину Кондратову, з покупкою нового позашляховика Cadillac.
    
