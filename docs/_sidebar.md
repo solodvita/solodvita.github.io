@@ -4,7 +4,11 @@
   - [Атомарные свопы](svopes.md)
   - [Adam Back](adam.md)
   - [Яровед](/yaroved/yaroved.md)
+
+
   
+- Реєстр злочинів
+  - [Реєстр злочинів](/crime_register/crime_register.md)  
 
 - File manager
   - [far2l](/filemanager/far2l.md)
