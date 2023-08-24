@@ -22,6 +22,8 @@ https://www.youtube.com/watch?v=Tqn3oUoX4iY&t=374s  Let's build a Markdown compo
 
 
 chmod ugo+x адрес_файла  Делает файл исполняемым для всех.
+
+
 chmod ugo+x /home/yu/Downloads/electrum-4.4.5-x86_64.AppImage
 
 
