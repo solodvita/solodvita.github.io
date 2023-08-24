@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=Tqn3oUoX4iY&t=374s  Let's build a Markdown compo
 
 Работать с программами в формате AppImage очень просто. Вы просто скачиваете программу, делаете файл программы исполняемым и запускаете. Ничего не нужно устанавливать, программа просто работает.
 
+
 chmod ugo+x адрес_файла  Делает файл исполняемым для всех.
 chmod ugo+x /home/yu/Downloads/electrum-4.4.5-x86_64.AppImage
 
