@@ -27,6 +27,11 @@ chmod ugo+x адрес_файла  Делает файл исполняемым 
 chmod ugo+x /home/yu/Downloads/electrum-4.4.5-x86_64.AppImage
 
 
+## Хеширование паролей
+
+https://www.youtube.com/watch?v=kGtogst83Cw
+
+
 ## Список справ
  
 - [ ] Less
