@@ -25,6 +25,8 @@ https://www.youtube.com/watch?v=LGsDerVgzyU   Vuetify in practice [ru] / Але�
 
 https://www.youtube.com/watch?v=FXpIoQ_rT_c    Vue.js Course for Beginners [2021 Tutorial]
 
+https://www.youtube.com/watch?v=1g6RRonRbEA  VUE с нуля за 5 часов! Новая рубрика «RED Test» | Vue 3 для начинающих [TS / Nuxt / Vue Query]
+
 
 
 
