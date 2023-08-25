@@ -32,7 +32,20 @@ chmod ugo+x /home/yu/Downloads/electrum-4.4.5-x86_64.AppImage
 https://www.youtube.com/watch?v=kGtogst83Cw
 
 
+## Евгений Юртаев
+
+https://www.youtube.com/watch?v=LNJpeqDgcZk   Як не дати автоматично оновити Windows 10 до 11. InControl
+
+https://www.youtube.com/watch?v=WEnQ8A9nTmg  Ubuntu та Windows. Як зробити, щоб Windows завантажувався за замовчуванням
+
+https://www.youtube.com/watch?v=dX01-1r51Wg&t=425s   Tiff In Tech
+UA
+7:20 / 8:29
+Немає меню вибору Ubuntu під час завантаження. Відразу завантажується Windows 
+
+
 ## Список справ
+
  
 - [ ] Less
 - [ ] Сайт на Jekyll
