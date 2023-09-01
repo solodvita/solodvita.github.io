@@ -47,3 +47,6 @@ myscript.sh
 Видеоинструкция <a href="https://www.youtube.com/watch?v=iVKO9Hnzvwo&t=230s">Ventoy - Мультизагрузочная флешка на Linux</a>
 
 `sudo sh Ventoy2Disk.sh -I /dev/sdd`
+
+## Pass 
+<a href="https://git.zx2c4.com/password-store/about/">Man page</a>
