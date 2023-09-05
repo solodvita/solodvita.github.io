@@ -16,6 +16,11 @@ https://www.youtube.com/watch?v=Tqn3oUoX4iY&t=374s  Let's build a Markdown compo
 <a href="https://github.com/docsifyjs/awesome-docsify">awesome-docsify</a>\
 <a href="https://amzn.github.io/style-dictionary/#/">style-dictionary</a> by Amazon
 
+## Regular expression (регулярные выражения)
+Регулярные выражения созданы для двух целей.
+1. Проверка
+2. Замена
+
 ## AppImage
 
 Работать с программами в формате AppImage очень просто. Вы просто скачиваете программу, делаете файл программы исполняемым и запускаете. Ничего не нужно устанавливать, программа просто работает.
