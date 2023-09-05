@@ -16,9 +16,9 @@ https://www.youtube.com/watch?v=Tqn3oUoX4iY&t=374s  Let's build a Markdown compo
 <a href="https://github.com/docsifyjs/awesome-docsify">awesome-docsify</a>\
 <a href="https://amzn.github.io/style-dictionary/#/">style-dictionary</a> by Amazon
 
-## Regular expression (регулярные выражения)
+## Regular expression (regex) - регулярные выражения
 Регулярные выражения созданы для двух целей.
-1. Проверка
+1. Проверка на вхождение
 2. Замена
 
 ## AppImage
