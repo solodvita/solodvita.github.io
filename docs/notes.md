@@ -31,6 +31,10 @@ chmod ugo+x адрес_файла  Делает файл исполняемым 
 
 chmod ugo+x /home/yu/Downloads/electrum-4.4.5-x86_64.AppImage
 
+## Headless Architecture
+
+
+<a href="https://thecodest.co/blog/what-is-headless-architecture/">What is Headless Architecture?</a> статья.
 
 ## Хеширование паролей
 
