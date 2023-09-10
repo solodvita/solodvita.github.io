@@ -4,7 +4,7 @@
 
 `rails new toy_app`
 
-`bundle install`
+`bundle `
 
 
 
@@ -18,6 +18,12 @@
 `rails g scaffold Micropost content:text user_id:integer`
 
 `bundle exec rails db:migrate`
+
+## Gem Devise
+
+1. Добавляем в гемфайл gem "devise"
+2. bundle
+3. rails g devise:install. После запуска команды рейлс дает подсказки какие у нас должны быть настройки.
 
 http://rubydev.ru/2011/10/rubydev_ruby_tutorial_metaprogramming_ruby
 

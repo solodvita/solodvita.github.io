@@ -1,5 +1,10 @@
 # Нотатки
 
+## Postgresql
+
+<a href="https://www.youtube.com/watch?v=kWUW3sMK0Mk&t=383s">Відеоінструкція тут</a>
+
+---
 
 https://beautifuljekyll.com/
 
