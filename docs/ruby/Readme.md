@@ -1,5 +1,20 @@
 # Rails
 
+
+## Create new app
+
+
+
+`rails new blog -j esbuild --css bootstrap -a propshaft`
+
+## Install Tailwind CSS with Ruby on Rails
+
+Setting up Tailwind CSS in Ruby on Rails v7+ project.
+
+https://tailwindcss.com/docs/guides/ruby-on-rails
+
+
+
 ## Scaffold
 
 `rails new toy_app`
