@@ -39,6 +39,9 @@ https://infogra.ru/design/krutaya-shpargalka-po-sochetaniyu-tsvetov   Сочет
 
 https://www.youtube.com/watch?v=X6CsbhSVUEc&t=309s  How to make a responsive navbar with tailwind css | tailwind css tutorial
 
+https://www.youtube.com/watch?v=LlTxTHfk2tk   
+Creating a README File That Makes Your Project Shine | readme file tutorial |
+
 
 ## Install Tailwind CSS with Ruby on Rails
 
