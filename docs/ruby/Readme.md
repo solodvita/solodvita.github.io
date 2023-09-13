@@ -9,7 +9,7 @@
 
 1. Создаем контроллер для "Hello, World"
 `rails g controller Welcome index`
-2. Откройте файл app/controller/welcome_controller.rb и убедитесь что в нем есть следующий код
+2. Откройте файл app/controllers/welcome_controller.rb и убедитесь что в нем есть следующий код
 
         class WelcomeController < ApplicationController
             def index
