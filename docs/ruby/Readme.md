@@ -3,9 +3,31 @@
 
 ## Create new app
 
-
-
 `rails new blog -j esbuild --css bootstrap -a propshaft`
+
+## Hello World on RoR
+
+1. Создаем контроллер для "Hello, World"
+`rails g controller Welcome index`
+2. Откройте файл app/controller/welcome_controller.rb и убедитесь что в нем есть следующий код
+
+        class WelcomeController < ApplicationController
+            def index
+            end
+        end
+
+3. Создаем представление для контроллера. В файле `app/views/welcome` создайте файл `index.html.erb` с содержанием:
+`Hello, World`
+
+4. Настройте маршруты в файле `config/routes.rb`, чтобы установить корневой маршрут на контроллер  `Welcome`:
+```
+Rails.application.routes.draw do
+  root 'welcome#index'
+end
+```
+5. Запускаем сервер
+`./bin/dev`
+
 
 ## Install Tailwind CSS with Ruby on Rails
 
@@ -13,7 +35,8 @@ Setting up Tailwind CSS in Ruby on Rails v7+ project.
 
 https://tailwindcss.com/docs/guides/ruby-on-rails
 
-
+Run your build process with ./bin/dev.
+`./bin/dev`
 
 ## Scaffold
 
