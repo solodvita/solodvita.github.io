@@ -1,5 +1,13 @@
 # Rails
 
+https://www.softcover.io/read/db8803f7/ruby_on_rails_tutorial_3rd_edition_russian/frontmatter 
+
+  Ruby on Rails Tutorial
+Learn Web Development with Rails
+Michael Hartl
+
+https://getbootstrap.com/docs/3.4/customize/ Scss переменные.
+
 
 ## Create new app
 
@@ -42,6 +50,7 @@ https://www.youtube.com/watch?v=X6CsbhSVUEc&t=309s  How to make a responsive nav
 https://www.youtube.com/watch?v=LlTxTHfk2tk   
 Creating a README File That Makes Your Project Shine | readme file tutorial |
 
+`rails db:system:change --to=postgesql`
 
 ## Install Tailwind CSS with Ruby on Rails
 
