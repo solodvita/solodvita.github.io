@@ -1,5 +1,10 @@
 # Rails
-https://github.com/abhaynikam/boring_generators    Boring generator
+https://blog.rnds.pro/026-three-great-answers   Rails 7: три мощных ответа JavaScript’у в 2021+
+
+https://rubyonrails.org/doctrine   Доктрина рейлс
+
+
+https://github.com/abhaynikam/boring_generators    Boring generator Шлак или нет? Не разобрался
 
 
 
@@ -15,6 +20,8 @@ https://getbootstrap.com/docs/3.4/customize/ Scss переменные.
 ## Create new app
 
 `rails new blog -j esbuild --css bootstrap -a propshaft`
+
+`rails g controller home index`
 
 ## Hello World on RoR
 
