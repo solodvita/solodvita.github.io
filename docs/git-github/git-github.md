@@ -37,5 +37,5 @@ https://medium.com/@mityamitko/%D0%B4%D0%B2%D0%B0-%D0%B8-%D0%B1%D0%BE%D0%BB%D1%8
 
 `git branch -d master` - удалить ветку master
 
-
+Сначала надо перейти на ветку `main`, `git checkout main`, а потом выполнить слияние `git merge v0.0.2`
 

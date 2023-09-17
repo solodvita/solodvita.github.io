@@ -1,4 +1,13 @@
 # Rails
+
+http://rusrails.ru/getting-started
+
+
+https://world.hey.com/dhh
+
+
+https://www.8host.com/blog/ustanovka-ruby-on-rails-s-pomoshhyu-rbenv/
+
 https://blog.rnds.pro/026-three-great-answers   Rails 7: три мощных ответа JavaScript’у в 2021+
 
 https://rubyonrails.org/doctrine   Доктрина рейлс
@@ -106,4 +115,110 @@ bulk email messaging подходит для почтовой рассылки.
 В каждом письме должна быть кнопка unsubscribe. Если этой кнопки нет - это нарушение terms of service.
 
 
-https://www.refinerycms.com/ The most popular Ruby on Rails CMS
+https://www.refinerycms.com/ The most popular 
+
+Ruby on Rails CMS
+
+
+https://www.youtube.com/watch?v=kIPlfjDM1kY
+
+## Avo
+
+https://www.youtube.com/watch?v=yIpNJ5zwgCU&t=72s   Avo Admin Panel Gem | Ruby on Rails 7 Tutorial
+
+https://www.youtube.com/watch?v=nqAnftA8LbA  Image Previews with Active Storage in Ruby on Rails 7
+
+## Создание блога
+`rails new TestImage && cd TestImage && code .`
+
+`rails g scaffold post title body:text`
+
+`rails active_storage:install`
+
+`rails db:migrate`
+
+`rails s`
+
+```
+app\models\post.rb
+
+class Post < ApplicationRecord
+    has_one_attached :image
+end
+```
+```
+controllers\post_controller.rb
+ def post_params
+      params.require(:post).permit(:title, :body, :image)
+ end
+```
+```
+views\posts\_form_html.erb
+ <div>
+    <%= form.label :image, style: "display: block" %>
+    <%= form.file_field :image %>
+  </div>
+```
+
+```
+views\posts\_post.html.erb
+
+<%= image_tag(post.image, class: "image") %>
+```
+
+```
+\assets\stylesheets\application.css
+.image {
+    width: 300px;
+     height: auto
+}
+
+.image-container {
+    width: 300px;
+     height: 300px
+}
+```
+## Heroku
+
+`rails db:system:change --to=postgresql`
+
+`bundle`
+
+`heroku create`
+
+`git push heroku main`
+
+`heroku run rake db:migrate`
+
+```config\routs.rb
+root "posts#index"
+```
+on local mashine 
+`bin/rails db:create`
+`rails db:migrate`
+
+## Avo 
+add gem 'avo'
+gem 'devise' to Gemfile 
+
+# Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
+gem "image_processing", "~> 1.2"
+
+`bundle`
+`rails g avo:install`
+`rails g scaffold post title body:text`
+`rails g model comment body:text post:references`
+```models\post.rb
+class Post < ApplicationRecord
+    has_many :comments
+    has_one_attached :image
+end
+```
+`rails active_storage:install`
+`rails db:migrate`
+`rails g devise:install`
+`rails g devise user`
+`rails g migration AddRoleToUser role:string`
+`rails db:migrate`
+`rails c`
+
