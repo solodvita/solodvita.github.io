@@ -23,6 +23,7 @@
 
 - Ruby
   - [Readme ruby](/ruby/Readme)
+  - [Avo](/ruby/Avo)
 
 - Python
   - [Readme python](/python/Readme)  
