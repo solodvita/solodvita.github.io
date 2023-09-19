@@ -29,6 +29,7 @@ https://getbootstrap.com/docs/3.4/customize/ Scss переменные.
 ## Create new app
 
 `rails new blog -j esbuild --css bootstrap -a propshaft`
+`rails new blog --css bootstrap `
 
 `rails g controller home index`
 
@@ -222,3 +223,57 @@ end
 `rails db:migrate`
 `rails c`
 
+https://www.youtube.com/watch?v=SxwFyK9OtfY   Layouts For Admin Users with Devise in Ruby on Rails 7
+
+
+https://www.youtube.com/watch?v=tww-0bO4zCY   Flatpickr Date Picker in Ruby on Rails 7
+
+https://www.youtube.com/watch?v=xhWGY_JCUOs   Generate QR Codes with Active Storage | Ruby on Rails 7 Tutorial
+
+https://www.youtube.com/watch?v=oMEWpPvmyS0
+
+Intro Ruby on Rails 7 For Beginners Tutorial Series
+• 1 / 29
+UA
+5:12 / 11:43
+Bing's ChatGPT with Ruby on Rails is Here! 
+
+https://www.youtube.com/watch?v=Ith6FA0kxPc
+
+Image Cropping With Active Storage & CropperJS | Ruby On Rails 7 Tutorial
+
+https://www.youtube.com/watch?v=hck_SWp1cVA
+UA
+0:12 / 10:56
+Mapkick Gem Spotlight | Ruby On Rails 7 Tutorial 
+
+https://chartkick.com/mapkick
+
+
+https://www.youtube.com/watch?v=Rw-MIHm62yE
+
+Secure Your Secret Keys With Rails 7 Encrypted Credentials
+
+https://www.youtube.com/watch?v=CnZnwV38cjo
+Devise Google Login With Omniauth | Ruby On Rails 7 Tutorial
+
+https://www.youtube.com/watch?v=Wt3EMm0_5Yo
+Copyright Footers with Auto Dates (Because Clients) | Ruby on Rails 7 Tutorial
+
+https://www.youtube.com/watch?v=B6BqxQBS06I
+
+Turbo Crash Course For Twitter Likes With Devise User Sessions | Ruby on Rails 7 Tutorial
+
+https://www.youtube.com/watch?v=d2-cd4RKFwA&t=24s
+
+UA
+0:38 / 29:01
+Deploy A Rails 7 App To Heroku (Realtime Chatroom) | Turbochat Part 8 
+
+https://www.youtube.com/watch?v=cWkISBYM_0g
+
+Quickly Setup Bootstrap 4 in Rails 6 With Yarn And Webpack | Ruby On Rails 6 Beginner Tutorial
+
+https://www.youtube.com/watch?v=7v2EMmfBJL8
+
+User And Admin Accounts With Devise | Authentication Ruby On Rails 5.2 Tutorial
