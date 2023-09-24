@@ -1,8 +1,8 @@
 # AMassage2
 
 Создаем приложение AMassage2
-`rails new AMassage2 --database=postgresql`
-`rails new AMassage3 --database=postgresql --css bootstrap`
+`rails new AMassage2 -j esbuild --css bootstrap --database=postgresql`
+
 
 Деплоим
 ## Heroku
