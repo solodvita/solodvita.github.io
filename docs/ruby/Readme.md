@@ -277,3 +277,7 @@ Quickly Setup Bootstrap 4 in Rails 6 With Yarn And Webpack | Ruby On Rails 6 Beg
 https://www.youtube.com/watch?v=7v2EMmfBJL8
 
 User And Admin Accounts With Devise | Authentication Ruby On Rails 5.2 Tutorial
+
+https://www.youtube.com/watch?v=0XRoQOGtSxE   PGHero Gem for Ruby on Rails 7
+
+https://www.youtube.com/watch?v=UmAx1A6ic2M&t=608s  Deploy Rails 7.1 To AWS With Docker And Nginx!
