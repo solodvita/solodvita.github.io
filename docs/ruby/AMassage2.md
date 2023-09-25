@@ -1,8 +1,14 @@
 # AMassage2
 
-Создаем приложение AMassage2
+### Создаем приложение AMassage2
 `rails new AMassage2 -j esbuild --css bootstrap --database=postgresql`
 
+### Footer
+`git checkout -b footer` создаем ветку футер и сразу переключаемся на нее.
+`rails g stimulus copyright`
+`git checkout main` переключаемся на ветку main
+`git merge footer` сливаем ветку футер с веткой main
+`git branch -d footer` удаляем ветку футер
 
 Деплоим
 ## Heroku

@@ -281,3 +281,5 @@ User And Admin Accounts With Devise | Authentication Ruby On Rails 5.2 Tutorial
 https://www.youtube.com/watch?v=0XRoQOGtSxE   PGHero Gem for Ruby on Rails 7
 
 https://www.youtube.com/watch?v=UmAx1A6ic2M&t=608s  Deploy Rails 7.1 To AWS With Docker And Nginx!
+
+https://www.youtube.com/watch?v=ZKdIPUfXQgc   Creating User Profile Pages For Blog Authors | Intro To Ruby On Rails For Beginners Part 14
