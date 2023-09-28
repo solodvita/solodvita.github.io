@@ -23,6 +23,7 @@
 
 - Ruby
   - [Readme ruby](/ruby/Readme)
+  - [AMassage2](/ruby/AMassage2)
   - [Avo](/ruby/Avo)
 
 - Python
@@ -80,3 +81,5 @@
 
   - [Actions](actions.md)
   - [Пуста ссилка](/bank/)
+
+[def]: /ruby/AMassage2

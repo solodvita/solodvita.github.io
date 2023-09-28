@@ -1,5 +1,25 @@
 # Нотатки
 
+## Css grid
+### Выравнивание относительно самой ячейки
+align-items: start;
+align-items: center;
+align-items: end;
+ выравнивание по оси у
+justify-items: center;
+justify-items: start;
+justify-items: end; выравнивание по оси х.
+ justify-self: end;
+ justify-self: center;
+ justify-self: start; выравнивание по оси х.
+align-self: end;
+align-self: start;
+align-self: center; принцип тот же, но работаем с одним элементом.
+
+
+
+
+
 ## Postgresql
 
 <a href="https://www.youtube.com/watch?v=kWUW3sMK0Mk&t=383s">Відеоінструкція тут</a>
