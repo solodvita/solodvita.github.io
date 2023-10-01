@@ -68,3 +68,5 @@ Switched to branch 'main'
 
 Вставка изображения
 <%= image_tag("1.jpeg", alt: "Описание изображения") %>
+
+///

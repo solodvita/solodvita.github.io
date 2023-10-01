@@ -23,7 +23,7 @@
 
 - Ruby
   - [Readme ruby](/ruby/Readme)
-  - [AMassage2](/ruby/AMassage2)
+  - [AMassage2](/ruby/Massage)
   - [Avo](/ruby/Avo)
 
 - Python
