@@ -1,7 +1,7 @@
 # AMassage2
 
 ### Создаем приложение AMassage2
-`rails new AMassage2 -j esbuild --css bootstrap --database=postgresql`
+`rails new AMassage2 --css sass --database=postgresql`
 
 `git checkout -b features` создаем ветку функции и сразу переключаемся на нее.
 
