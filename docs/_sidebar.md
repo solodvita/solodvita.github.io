@@ -22,7 +22,8 @@
 
 
 - Ruby
-  - [Readme ruby](/ruby/Readme)
+  - [Readme ruby](/ruby/RoR)
+  - [Ruby](/ruby/Ruby)
   - [AMassagea2](/ruby/Massage)
   - [Avo](/ruby/Avo)
 
