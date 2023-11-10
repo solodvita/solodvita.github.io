@@ -2,6 +2,12 @@
 
 http://rusrails.ru/getting-started
 
+---
+
+https://dou.ua/lenta/articles/telegram-bot-ruby/
+
+---
+
 
 https://world.hey.com/dhh
 
