@@ -11,6 +11,8 @@
 
 ```rvm install 2.1.1```
 
+http://www.seczone.ru/stati/17-www/31-rubyonrailsrvm Установка Ruby on Rails c помощью RVM на FreeBSD. Полезная статья. Описаны нюансы. 
+
 
 
 # Rails
