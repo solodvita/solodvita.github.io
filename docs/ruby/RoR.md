@@ -14,6 +14,9 @@
 http://www.seczone.ru/stati/17-www/31-rubyonrailsrvm Установка Ruby on Rails c помощью RVM на FreeBSD. Полезная статья. Описаны нюансы. 
 
 
+https://habr.com/ru/articles/120504/ RVM — подробно
+
+
 
 # Rails
 
