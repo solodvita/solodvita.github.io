@@ -5,12 +5,12 @@
 
 # Установка Ruby с помощью rvm
 
-```rvm autolibs disable
-```
+```rvm autolibs disable```
 
 
-```rvm install 2.1.1
-```
+
+```rvm install 2.1.1```
+
 
 
 # Rails
