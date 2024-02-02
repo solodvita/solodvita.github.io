@@ -11,6 +11,13 @@
 
 ```rvm install 2.1.1 --with-openssl-dir=/usr/share/rvm/usr```
 
+
+https://www.linuxcapable.com/how-to-install-node-js-on-linux-mint/   Установить nvm
+
+https://linuxhint.com/install-yarn-linux-mint/   Установить yarn
+
+https://github.com/learnenough/sample_app_6th_ed#readme   sample_app_6th_ed
+
 http://www.seczone.ru/stati/17-www/31-rubyonrailsrvm Установка Ruby on Rails c помощью RVM на FreeBSD. Полезная статья. Описаны нюансы gemset. 
 
 
@@ -18,7 +25,9 @@ https://habr.com/ru/articles/120504/ RVM — подробно
 
 https://elvidigital.ru/blog/razrabotka-sajtov/ruby-on-rails/kak-pravilno-perejti-na-novuyu-versiyu-ruby-on-rails/   Как правильно перейти на новую версию Ruby on Rails
 
+# Solidus
 
+https://www.youtube.com/playlist?list=PLjQo0sojbbxWv_k3FGWpTrCOcqXU_ZhDs  Solidus E-commerce
 
 # Rails
 
